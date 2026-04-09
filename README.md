@@ -3,13 +3,21 @@ TODO ： 对用户输入问题简单分类，直接回答还是调用LLM分析
 #### requirements
 
 langchain
+
 langchain-community
+
 langgraph
+
 langchain-core
+
 sqlalchemy
+
 pymysql
+
 streamlit
+
 dashscope
+
 
 ### LangGraph_SQL_Agent
 
