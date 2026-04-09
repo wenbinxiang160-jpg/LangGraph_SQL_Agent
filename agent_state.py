@@ -4,6 +4,7 @@ import operator
 
 class AgentState(TypedDict):
     question: str  # 用户原始问题
+    schema_context: str   # 涉及表项
     sql: str  # SQL Agent 写的 SQL
     query_result: Optional[list]  # MySQL 执行结果
     analysis: str  # Analyst Agent 的分析
