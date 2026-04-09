@@ -16,7 +16,9 @@ dashscope
 
 ### 项目架构图
 <img width="742" height="616" alt="image" src="https://github.com/user-attachments/assets/fd94cae2-8691-4e96-b94b-f6db34502ba3" />
+
 ### 更新后
+
 <img width="744" height="706" alt="image" src="https://github.com/user-attachments/assets/5fd9fedb-7674-4c6b-8d57-95239513c615" />
 
 
